@@ -113,7 +113,7 @@ if ['solo','db_master', 'db_slave'].include?(node[:instance_role])
   # postgresql9_pg_trgm "dbname"
   # postgresql9_pgcrypto "dbname"
   # postgresql9_pgrowlocks "dbname"
-  postgresql9_postgis 'doormates'
+  postgresql9_postgis 'mommy_nearest'
   # postgresql9_seg "dbname"
   # postgresql9_sslinfo "dbname"
   # postgresql9_tablefunc "dbname"
