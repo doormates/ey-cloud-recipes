@@ -11,7 +11,7 @@
 # require_recipe "collectd"
 
 #uncomment to turn on memcached
-# require_recipe "memcached"
+require_recipe "memcached"
 
 #uncomment ot run the riak recipe
 # require_recipe "riak"
